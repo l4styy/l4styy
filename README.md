@@ -1,11 +1,11 @@
 
-### Ola! Eu sou o Mateus Rios! 🤓
+### Ola! Eu sou o Mateus Rios! 🛸
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m4tt_xx/) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lastyzinhu)
 
 ![mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=l4styy&show_icons=true&theme=dracula)
 
-## Linguagens que eu utilizo no meu dia!
+## Linguagens que eu utilizo no meu dia! 🛰️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l4styy&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,5 +19,5 @@
 
 Dev por amor.
 
-## Email para contato
+## Email para contato 🪐
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
